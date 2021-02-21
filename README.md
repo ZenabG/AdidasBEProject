@@ -2,7 +2,7 @@
 
 The test framework used is **Soap UI** (open source version).
 
-The project consists of 4 api **request-response steps** added for each API automated checks required in the exercise.
+The project consists of 4 api **request-response steps** added for each API automated checks required in the exercise:
 * Get All available pets
 * Add a new pet
 * Update the pet status to 'sold'
